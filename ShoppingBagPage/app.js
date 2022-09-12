@@ -1,6 +1,5 @@
 
 const taskBtn = document.querySelector(".btn");
-
   
 taskBtn.addEventListener("click", (e) => {
   // Display modal
